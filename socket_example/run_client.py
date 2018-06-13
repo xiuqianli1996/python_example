@@ -1,4 +1,4 @@
-from socket.socket_test import SocketClient
+from socket_example.socket_test import SocketClient
 
 if __name__ == '__main__':
     client = SocketClient('127.0.0.1', 1234)

@@ -1,4 +1,4 @@
-from socket.socket_test import SocketServer
+from socket_example.socket_test import SocketServer
 
 if __name__ == '__main__':
     server = SocketServer(1234)
